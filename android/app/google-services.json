@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1009982600478",
+    "firebase_url": "https://utsproject-99f50-default-rtdb.firebaseio.com",
+    "project_id": "utsproject-99f50",
+    "storage_bucket": "utsproject-99f50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009982600478:android:4f155ccdfb787baafb450f",
+        "android_client_info": {
+          "package_name": "com.uts.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8tBX2wI43DugTM7t5YXNtzAXAf5BF9og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
